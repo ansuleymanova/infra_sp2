@@ -2,7 +2,7 @@
 ## Description
 This study project is a knock-off of IMDB for books, movies and songs.
 ## User Manual
-In terminal, from the directory that contains '''docker-compose.yaml''' run following commands:
+In terminal, from the directory that contains ```docker-compose.yaml``` run following commands:
 ### Startup
 ```
 docker-compose up --build -d
